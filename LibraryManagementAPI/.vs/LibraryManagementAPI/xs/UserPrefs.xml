@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{80553F4C-38C7-403C-A127-7988A4E2C036}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../LibraryManagementAPIConcrete/AuthConcrete.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/LibraryController.cs" />
+      <File FileName="../LibraryManagementAPIConcrete/LibrayConcrete.cs" />
+      <File FileName="../LibraryManagementAPIModel/LibraryDbContext.cs" Line="17" Column="2" />
+      <File FileName="../LibraryManagementAPIInterface/ILibraryInterface.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="../LibraryManagementAPIConcrete/AuthConcrete.cs" Line="24" Column="1" />
+      <File FileName="Controllers/AuthController.cs" />
+      <File FileName="../LibraryManagementAPIInterface/IAuthenticate.cs" Line="16" Column="1" />
+      <File FileName="../LibraryManagementAPIModel/MstUserModel.cs" Line="6" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryManagementAPI">
+            <Node name="LibraryManagementAPIConcrete" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="LibraryManagementAPIInterface" expanded="True" />
+            <Node name="LibraryManagementAPIModel" expanded="True">
+              <Node name="DTO" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LibraryManagementAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
